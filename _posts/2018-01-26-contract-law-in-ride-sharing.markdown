@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "Simpol Blogging, Adding New Posts"
-description: "How to add your first post. Simpol Theme blogging overview."
-date:       2017-04-16 17:00:00
-author:     "Simpol Theme"
+title:      "thoughts on contract law in the ride sharing space"
+description: "early thoughts on conflict resolution between riders and drivers"
+date:       2018-01-26 17:00:00
+author:     "cj"
 header-img: assets/img/posts/header-img/woman-typing-macbook.jpg
 
 categories:
