@@ -24,15 +24,3 @@ With most ride — hailing apps (Taxify, Uber) however, this simple contract
 From this you can see how two contracts govern any given transaction and the implications. If a driver decides to eject a passenger from his vehicle, he is not in breach of any contract with **the passenger** and has no liabilities or obligations for the reason that *no contract exists!* The passenger unfortunately would have to seek recourse from the platform who would also seek to enforce breach terms against the *errant* driver.
 
 Clearly for users of these services, it would be useful for these platforms to provide more information on the rights of users and what to do when one leg of the contract is breached as happened in the case that inspired this piece.
-
-
-```
-	---
-	layout:     post
-	title:      "Simpol Blogging, Adding New Posts"
-	description: "How to add your first post. Simpol Theme blogging overview."
-	date:       2017-04-16 17:00:00
-	author:     "Scott Mathson"
-	header-img: img/posts/header-img/woman-typing-macbook.jpg
-	---
-```
