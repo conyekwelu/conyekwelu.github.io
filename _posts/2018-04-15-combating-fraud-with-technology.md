@@ -26,7 +26,7 @@ Now we are warmed up. Forensic experts tend to look at fraud using the a simple 
 
 *insert image of fraud triangle*
 
-#### The Golden Triangle
+### The Golden Triangle
 **Incentives (or Pressure):** Another wise man once said, “there are only a few forces more powerful than incentives”. If your security man has a very sick daughter and needs a lot of money for her treatment — Incentive! If your shop manager needs to pay his rent but has no money — Incentive! If the price of petrol in the neighboring country is 50–100% higher than your subsidized price — Incentive!!
 
 Simply put, if the benefits of an action (gate-man stealing your diesel) outweigh the real costs (buying hose and gallon) and probability weighted potential costs (getting caught and arrested) — then a strong incentive exists. Sadly, there’s not much you or technology can do about this.
@@ -35,7 +35,7 @@ Simply put, if the benefits of an action (gate-man stealing your diesel) outweig
 
 **Opportunity:** Opportunity is about access. A petty cash officer has access to the till and can steal some for him/herself. Organizations deal with the opportunity dimension using “Controls” — another jargon that basically means “rules”. To give some examples — you could have a rule that petty cash should never exceed N20,000 thus limiting the theft opportunity to that amount. You could have controls for approvals, tenders board etc or to split duties (preventing a single individual from having too many powers). They could also be physical controls such as security men to prevent asset theft or even passwords to restrict access to systems. **The Treasury Single Access (TSA) system was about minimizing access.** Controls do not necessarily have to do with technology [but you can implement some with technology].
 
-#### Conclusion
+### Conclusion
 
 Any of the factors alone is sufficient to enable fraud. If all three are not managed, you can bet your last dollar that some fraud is going on. We also see from looking at the factors that only 1 of the 3 appears to be *directly* affected by technology.
 
