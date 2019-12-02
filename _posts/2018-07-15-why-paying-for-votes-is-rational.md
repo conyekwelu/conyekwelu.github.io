@@ -31,11 +31,11 @@ Price contains information. Suppose two politicians A and B offer N4,000 and N5,
 
 At least, we can agree that the weighting of the first inference is non-zero.
 
-### Cournot
+### **Cournot**
 
 Here firms compete on quantity. If we both overproduce, prices crash just like in the market for oil. Eventually, and similar to Bertrand, low cost producers will exit. Basically, If politician A offers one bag of rice politician B will offer two bags. We arrive at similar conclusions as under Bertrand. This also assumes homogeneity of goods (both votes and politicians).
 
-### Hotelling
+### **Hotelling**
 
 Now this is where it gets interesting. Here firms compete by differentiation on some dimension. Consider the market for breakfast cereals. Firms (Nasco, Kelloggs etc) compete for a share of consumer’s breakfast spend by creating different products from the same base ingredients of sugar and flour . So you have low- sugar cereal targeting the health conscious adults and regular h̶i̶g̶h̶ ̶s̶u̶g̶a̶r̶ cereal for kids. The goods are heterogeneous and so the competition is not as fierce on Price.
 
