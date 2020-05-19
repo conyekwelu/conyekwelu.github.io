@@ -9,7 +9,7 @@ subtitle: Focus on the writing, the content.
 #content for index.html
   #Add your own info, deleting the comments "#". This data automatically writes to the Index page's mini, about section.
 greeting: CJ's sandbox
-logo_img: #LOGO_IMG_SRC_GOES_HERE | default: /assets/img/simpol-theme-square-writing-logo.png
+logo_img: /assets/img/logo.png
 subgreeting_one: #SUBGREETING_ONE_GOES_HERE
 subgreeting_two: #SUBGREETING_TWO_GOES_HERE
 
