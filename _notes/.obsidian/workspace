@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "your-first-note.md",
-            "mode": "preview"
+            "file": "testingfile.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "your-first-note.md",
+                "file": "testingfile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,6 +88,7 @@
   },
   "active": "d08b45a7c08bb619",
   "lastOpenFiles": [
+    "Untitled.md",
     "your-first-note.md",
     "move your body every day.md",
     "cats.md",
