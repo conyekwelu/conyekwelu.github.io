@@ -2,20 +2,12 @@
 <html lang="en">
   {% include head.html %}
   <body>
-
-    {% include nav.html %}
-
-    <div class="main">
-
-      {{ content }}
-
+    <nav>{% include nav.html %}</nav>
+    <div class="wrapper">
+      <main>{{ content }}</main>
+      <footer>{% include footer.html %}</footer>
     </div>
 
-    {% include footer.html %}
-
-		{% include google-analytics.html %}
-
+    {% include link-previews.html wrapperQuerySelector="content" %}
   </body>
-  <!-- Simpol Theme - Download at: https://simpoltheme.com/
-        Created by, Copyright © Mathson Design, LLC and Scott Mathson -->
 </html>

@@ -1,0 +1,96 @@
+{
+  "main": {
+    "id": "b861b4e4d8a66cf2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d08b45a7c08bb619",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "cats.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8eac3d2575893fe2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ed3e52a9e6b69379",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7212c76b16b13b61",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3f1392c4053ba677",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "367c1a038f8cd4ec",
+    "type": "split",
+    "children": [
+      {
+        "id": "aba4eb4a1850481d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35b10d4a4fa3b8a0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "cats.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d08b45a7c08bb619",
+  "lastOpenFiles": [
+    "cats.md",
+    "your-first-note.md",
+    "move your body every day.md",
+    "consistency.md"
+  ]
+}
