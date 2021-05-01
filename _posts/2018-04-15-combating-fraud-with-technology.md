@@ -12,7 +12,7 @@ categories:
 
 # thoughts on fraud (corruption) and technology
 
-Once in a while, I crawl out of the wood work I inhabit to opine on matters I don’t understand. Today, I will use a simple frame work to evaluate part of the statement expressed below, i.e., that Technology can end corruption in Nigeria. If you run a small business [think restaurant or bar], this frame work might be useful for how you think about fraud.
+Once in a while, I crawl out of the wood work I inhabit to opine on matters I don’t understand. Today, I will use a simple frame work to evaluate part of the statement expressed below, i.e., that Technology can end corruption in Nigeria. If you run a small business [think restaurant or bar], this frame work might be useful for how you think about fraud...
 
 https://twitter.com/asemota/status/985255665345146887
 Our hypothesis for testing: (whole thread is useful for context)
