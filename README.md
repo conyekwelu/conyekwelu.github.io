@@ -1,4 +1,7 @@
+# My Digital Garden README
 [![Netlify Status](https://api.netlify.com/api/v1/badges/8cfa8785-8df8-4aad-ad35-8f1c790b8baf/deploy-status)](https://app.netlify.com/sites/digital-garden-jekyll-template/deploys)
+
+This digital garden is based on the excellent [Digital garden Jekyll template](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
 
 # Digital garden Jekyll template
 
@@ -21,3 +24,12 @@ Preview the template here: https://digital-garden-jekyll-template.netlify.app/
 ## License
 
 Source code is available under the [MIT license](LICENSE.md).
+
+## Now
+This section provides an update on my current activities, focus, and location. You can find more details on the [[now]] page.
+
+## BJJ
+A collection of my notes, reflections, and learnings related to Brazilian Jiu-Jitsu.
+
+## Books
+Here you'll find my notes, summaries, and reviews of books I've been reading.
