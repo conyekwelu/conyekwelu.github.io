@@ -15,10 +15,10 @@ I build systems, models, and teams that turn messy operations into durable, cash
 
 ## Start here
 
-- [[Start here]]
-- [[Now]]
-- [[Work]]
-- [[Writing]]
+- [Start here](/start-here)
+- [Now](/now)
+- [Work](/work)
+- [Writing](/writing)
 
 ---
 
@@ -30,4 +30,4 @@ I build systems, models, and teams that turn messy operations into durable, cash
 
 ---
 
-If you’re trying to reach me, start with [[About]] or [[Now]].
+If you’re trying to reach me, start with [About](/about) or [Now](/now).
